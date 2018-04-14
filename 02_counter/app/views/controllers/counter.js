@@ -8,6 +8,7 @@ const m = require('mithril');
  * @return {object} Rendering result.
  */
 module.exports = function(controller, pipe, _yield) {
+  pipe.title = `${this.count} clicks`;
   return (
 <div class='controllers/counter'>
   <p>{this.count} clicks</p>
