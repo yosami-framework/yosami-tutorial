@@ -1,5 +1,5 @@
 {
-  "name": "01_hello_world",
+  "name": "03_i18n",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack -p",
