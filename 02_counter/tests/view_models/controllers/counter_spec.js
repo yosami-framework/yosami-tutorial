@@ -2,7 +2,7 @@ require('./../../spec_helper');
 const t         = require('track-spec');
 const ViewModel = require('./../../../app/view_models/controllers/counter');
 
-t.describe('Counter', () => {
+t.describe('Controllers::Counter', () => {
   let vm = null;
 
   t.before(() => {

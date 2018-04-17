@@ -13,12 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "mithril": "^1.1.6",
-    "track-packages": "0.0.30",
+    "track-packages": "0.0.35",
     "track-server-cache-lru-cache": "0.0.4",
     "track-server-middleware-fastify": "0.0.4"
   },
   "devDependencies": {
-    "track-generator": "0.0.8",
+    "track-generator": "0.0.9",
     "track-spec": "0.0.4"
   }
 }
