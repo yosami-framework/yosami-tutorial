@@ -1,0 +1,4 @@
+en:
+  track_model:
+    errors:
+      greater_than: 'must be greater than or equal to %{count}'
