@@ -16,6 +16,6 @@ module.exports = class CounterController extends ApplicationController {
 
   onUp() {
     this.vm.count++;
-    this.vm.validateAll().then(m.redraw);
+    this.vm.validateAll();
   }
 }

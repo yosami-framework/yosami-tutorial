@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "mithril": "^1.1.6",
-    "track-packages": "0.0.36",
+    "track-packages": "0.0.37",
     "track-server-cache-lru-cache": "0.0.4",
     "track-server-middleware-fastify": "0.0.5"
   },
