@@ -1,0 +1,22 @@
+//
+// Style of Switch
+//
+.components\/switch {
+  display: inline-block;
+  margin: 32px;
+
+  .switch__knob {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top: 3px solid #ff1493;
+    box-shadow: 0 0 2px 1px #ccc;
+    transition: transform 0.25s 0s ease;
+    cursor: pointer;
+
+    &:hover {
+      background: #fdd;
+    }
+  }
+};
